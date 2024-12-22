@@ -1,0 +1,11 @@
+import mobileImage from "./assets/realme-mobile.webp";
+
+const HeroSection = () => {
+  return (
+    <div>
+      <img src={mobileImage} alt="Realme Mobile" />
+    </div>
+  );
+};
+
+export default HeroSection;

@@ -1,0 +1,20 @@
+body {
+    margin: 0;
+    font-family: 'Arial', sans-serif;
+    background-color: #f5f5f5;
+  }
+  
+  h1, h2, h3 {
+    font-family: 'Poppins', sans-serif;
+  }
+  
+  button {
+    cursor: pointer;
+    font-family: 'Poppins', sans-serif;
+  }
+  
+  img {
+    max-width: 100%;
+    height: auto;
+  }
+  
